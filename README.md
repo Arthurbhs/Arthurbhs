@@ -20,6 +20,7 @@ com/Arthurbhs"><img height="180em" src="https://github-readme-stats.vercel.app/a
 - 🌱 Quero estudar mais Ruby on Rails, UX design e Next.js 
 - ☕ Minha primeira linguagem de programação foi Java
 
+![snake gif](https://github.com/Arthurbhs/Arthurbhs/blob/output/github-contribution-grid-snake.gif)
 
 
 
