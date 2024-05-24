@@ -24,4 +24,6 @@ Here’s a refined and organized version of your GitHub profile README with the 
 ![snake gif](https://github.com/Arthurbhs/Arthurbhs/blob/output/github-contribution-grid-snake.gif)
 
 #### Meus projetos
-[![YouTube](https://img.youtube.com/vi/Owqx3I6WR38/0.jpg)](https://youtu.be/Owqx3I6WR38)
+<a href="https://youtu.be/Owqx3I6WR38">
+  <img src="https://img.youtube.com/vi/Owqx3I6WR38/0.jpg" width="100px" />
+</a>
