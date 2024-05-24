@@ -46,12 +46,10 @@ Sure, here’s the updated README with both video thumbnails displayed side by s
 snake gif
 Meus projetos
 <div>
-  <p>cineflix</p>
   <a href="https://youtu.be/Owqx3I6WR38">
-    <img src="https://img.youtube.com/vi/Owqx3I6WR38/0.jpg" width="100px" />
+    <img src="https://img.youtube.com/vi/Owqx3I6WR38/0.jpg" width="300px" />
   </a>
-  <p>jurassic strikex</p>
   <a href="https://youtu.be/9Wie2TWdpGE">
-    <img src="https://img.youtube.com/vi/9Wie2TWdpGE/0.jpg" width="100px" />
+    <img src="https://img.youtube.com/vi/9Wie2TWdpGE/0.jpg" width="300px" />
   </a>
 </div>
