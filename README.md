@@ -23,6 +23,7 @@
 <div align="center">
   <a href="https://youtu.be/Owqx3I6WR38">
     <img src="https://img.youtube.com/vi/Owqx3I6WR38/0.jpg" width="300px" />
+    <p>projeto feito em react</p>
   </a>
   <a href="https://youtu.be/9Wie2TWdpGE">
     <img src="https://img.youtube.com/vi/9Wie2TWdpGE/0.jpg" width="300px" />
